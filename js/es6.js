@@ -1,6 +1,5 @@
-// we declare a iife function (after function declaration it will be executed instantly)
-(function() {
-
+// we create a simple scope
+{
     // we can reset the model content with localStorage.clear()
     // localStorage.clear('items');
     
@@ -245,4 +244,4 @@
 // start our application
 const myController = new Controller(Model, View);
 
-})();
+};
