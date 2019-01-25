@@ -5,6 +5,7 @@
 -----------------------------------
 * Feature:
     * add/update/save/load/delete item into localStorage
+    * create list and keep track click count on image and update time
 -----------------------------------
 * Description: 
     * show a basic mvc structure where model, view and controller was separated.
