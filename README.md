@@ -1,6 +1,9 @@
 # architectural-pattern
+*(javascript MVC, MVVM samples)*
 
-## javascript MVC, MVVM samples
+#### Code:
+* [MVC - VanillaJS](https://github.com/shadowvzs/architectural-pattern/tree/master/mvc)
+* [MVVM - KnockoutJS](https://github.com/shadowvzs/architectural-pattern/tree/master/mvvm/knockoutJS)
 
 -----------------------------------
 * **Note:** this repo was created to help beginners about how the js **mvc** work
