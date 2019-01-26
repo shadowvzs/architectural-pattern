@@ -1,7 +1,7 @@
 # architectural-pattern
 *(javascript MVC, MVVM samples)*
 
-#### Code:
+#### Sample Code:
 * [MVC - VanillaJS](https://github.com/shadowvzs/architectural-pattern/tree/master/mvc)
 * [MVVM - KnockoutJS](https://github.com/shadowvzs/architectural-pattern/tree/master/mvvm/knockoutJS)
 
