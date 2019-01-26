@@ -6,7 +6,7 @@
 * [MVVM - KnockoutJS](https://github.com/shadowvzs/architectural-pattern/tree/master/mvvm/knockoutJS)
 
 -----------------------------------
-* **Note:** this repo was created to help beginners about how the js **mvc** work
+* **Note:** this repo was created to help beginners about how the js **mvc**, **mvvm** work
 -----------------------------------
 * Feature:
     * add/update/save/load/delete item into localStorage
