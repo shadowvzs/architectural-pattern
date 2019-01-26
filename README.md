@@ -14,6 +14,9 @@
     
 * Test: https://shadowvzs.github.io/architectural-pattern/
 -----------------------------------
+
+### MVC
+
 * Description: 
     * show a basic mvc structure where model, view and controller was separated.
         * controller the *bridge* between model and view (no view don't have direct relationship with model)
@@ -26,3 +29,7 @@
             * inheritance
             * if you update the item then only the changed DOM will be updated (comparison: old vs new data) 
 
+
+### MVVM
+* Description:
+   * everythi9ng like above but dynamic with knockoutJS ViewModel
