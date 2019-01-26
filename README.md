@@ -32,4 +32,4 @@
 
 ### MVVM
 * Description:
-   * everythi9ng like above but dynamic with knockoutJS ViewModel
+   * everything like above but dynamic with knockoutJS ViewModel
